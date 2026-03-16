@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brunovieira01
-- 👀 I’m interested in technology, finance and science
-- 🌱 I’m currently learning Python, C, R, LND
+- 👀 I dream of achieving an utopian cyberpunk world, where there is no hunger and no disease.
+- 🌱 I work mostly with data science, data analysis and architecture, web development and financial investments.
 - 📫 How to reach me: vbruno2002@gmail.com
 
